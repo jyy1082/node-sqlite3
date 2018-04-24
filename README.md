@@ -1,3 +1,7 @@
+sudo npm install sqlite3 --unsafe-perm --build-from-source
+
+
+
 Asynchronous, non-blocking [SQLite3](http://sqlite.org/) bindings for [Node.js](http://nodejs.org/).
 
 [![NPM](https://nodei.co/npm/sqlite3.png?downloads=true&downloadRank=true)](https://nodei.co/npm/sqlite3/)
